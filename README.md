@@ -61,6 +61,8 @@ I wanted to use real users to validate the idea before writing a line of code,
 so I floated the concept on r/steamachievements first — it landed 60+ positive
 community responses, which is what convinced me to build it for real.
 
+![NextSave route planner](assets/routemap.png)
+
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/trisslazaj/)
